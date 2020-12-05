@@ -2,7 +2,7 @@
 
 ☕ I'm a fullstack developer.
 
-🔭 I am currently working on web and mobile development technologies.
+🔭 I'm currently working on web and mobile development technologies.
 
 🇧🇷 I live in Brazil.
 
