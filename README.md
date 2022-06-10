@@ -11,4 +11,4 @@
 📫 How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-RafaelJos%C3%A9-212121?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeljnacimento/)](https://www.linkedin.com/in/rafaeljnacimento/) 
-[![Gmail Badge](https://img.shields.io/badge/-rafaeljosev10@gmail.com-212121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeljosev10@gmail.com)](mailto:rafaeljosev10@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-eng.rafaeljosedonascimento@gmail.com-212121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eng.rafaeljosedonascimento@gmail.com)](mailto:eng.rafaeljosedonascimento@gmail.com)
