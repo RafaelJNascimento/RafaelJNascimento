@@ -6,7 +6,7 @@
 
 🇧🇷 I live in Brazil.
 
-🎓 I'm majoring in Computer Engineering at the Federal University of Ceará.
+🎓 I am a Computer Engineer graduated from the Federal University of Ceará.
 
 📫 How to reach me:
 
